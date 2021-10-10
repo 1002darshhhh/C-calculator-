@@ -6,7 +6,7 @@ C CALCULATOR
  --------
    it performs basic arithmatic operations such has addition,subtraction,multiplication and division.
   
-  ###Addition--
+  # Addition--
     * you can add upto 10 numbers at once
     * it accepts both integer and floating point numbers.
  
