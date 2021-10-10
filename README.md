@@ -1,6 +1,13 @@
 C CALCULATOR
 ============
   This simple calculator is programmed  by using C language.
+  details
+  -------
+  ---
+  name:C calculator
+  desrciption: calculator for arithmetic operation
+  author:[@1002darshhhh]
+  ---
   
   
  Features
