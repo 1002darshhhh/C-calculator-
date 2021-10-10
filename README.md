@@ -6,19 +6,19 @@ C CALCULATOR
  --------
    it performs basic arithmatic operations such has addition,subtraction,multiplication and division.
   
-  # Addition--
+  #### Addition--
     * you can add upto 10 numbers at once
     * it accepts both integer and floating point numbers.
  
- ### Subtration--
+ #### Subtration--
     * you can  subtract  only two number at once.
     * it accepts both integer and floating point numbers.
   
-  ###Multiplication--
+  #### Multiplication--
     * you can  multiply upto 10 numbers at once.
     * it accepts both integer and floating point numbers.
   
-  ###Division--
+  #### Division--
     * you can  divide only one number at once.
     * it accepts both integer and floating point numbers.
  
