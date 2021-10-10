@@ -1,14 +1,15 @@
 C CALCULATOR
 ============
   This simple calculator is programmed  by using C language.
-  details
-  -------
-  ---
-  name:C calculator
-  desrciption: calculator for arithmetic operation
-  author:[@1002darshhhh]
-  ---
   
+  Details
+  -------
+
+Name | Description |  Author
+---|---|---
+C calculator |  Performs arithmetic operation| @1002darshhh
+
+
   
  Features
  --------
@@ -29,4 +30,9 @@ C CALCULATOR
   #### Division--
     * You can  divide only one number at once.
     * It accepts both integer and floating point numbers.
+    
+ Getting started  
+ --------------
+ * Install latest version of visual studio code.
+ * Use command prompt or terminal of VS code to run program.
  
