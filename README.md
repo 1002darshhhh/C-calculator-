@@ -1,4 +1,5 @@
 C CALCULATOR
+============
   This simple calculator is programmed using C language.
   
  Features:
